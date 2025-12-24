@@ -1,0 +1,39 @@
+{
+    "resume": [
+        "Ananya Sharma",
+        "Python Full Stack Developer",
+        "Email: ananya.sharma@gmail.com",
+        "Phone: 9123456780",
+        "Professional Summary:",
+        "Python Full Stack Developer with 2 years of experience in developing",
+        "web applications using Pyth on, Flask, and SQL.",
+        "Technical Skills:",
+        "Python, Flask, SQL, HTML, CSS, Bootstrap, Git",
+        "Work Experience:",
+        "Software Engineer \u2013 TechNova Solutions",
+        "\u2022 Developed REST APIs using Flask",
+        "\u2022 Worked with MySQL database",
+        "\u2022 Integrated frontend with backend services",
+        "Education:",
+        "Bachelor of Technology (B.Tech) in Computer Science",
+        "ABC Institute of Technology"
+    ],
+    "job_description": [
+        "Job Title: Python Full Stack Developer",
+        "Company: Innovatech Solutions Pvt Ltd",
+        "Job Description:",
+        "We are looking for a Pyth on Full Stack Developer to design and develop",
+        "web applications using modern technologies.",
+        "Required Skills:",
+        "Python, Flask, SQL, HTML, CSS, Bootstrap",
+        "Responsibilities:",
+        "\u2022 Develop backend services using Python and Flask",
+        "\u2022 Build responsive frontend interfaces",
+        "\u2022 Work with SQL databases",
+        "\u2022 Use Git for version control",
+        "Experience Required:",
+        "1\u20133 years of experience in Python development",
+        "Education:",
+        "Bachelor\u2019s degree in Computer Science or related field"
+    ]
+}
